@@ -1,0 +1,227 @@
+{
+  "labrador_retriever": {
+    "nombre": "Labrador Retriever",
+    "pais_origen": "Canadá",
+    "esperanza_vida": "10 - 12 años",
+    "peso_promedio": "25 - 36 kg",
+    "tamano": "Grande",
+    "nivel_energia": "Alto",
+    "descripcion": "Perro cobrador criado para recuperar redes y presas en aguas frías. Sociable, obediente y muy usado como perro guía."
+  },
+  "golden_retriever": {
+    "nombre": "Golden Retriever",
+    "pais_origen": "Reino Unido (Escocia)",
+    "esperanza_vida": "10 - 12 años",
+    "peso_promedio": "25 - 34 kg",
+    "tamano": "Grande",
+    "nivel_energia": "Alto",
+    "descripcion": "Cobrador de caza de manto dorado. Paciente con los niños y muy fácil de adiestrar."
+  },
+  "pastor_aleman": {
+    "nombre": "Pastor Alemán",
+    "pais_origen": "Alemania",
+    "esperanza_vida": "9 - 13 años",
+    "peso_promedio": "22 - 40 kg",
+    "tamano": "Grande",
+    "nivel_energia": "Alto",
+    "descripcion": "Perro de pastoreo convertido en el estándar del trabajo policial y militar por su inteligencia y aplomo."
+  },
+  "bulldog_frances": {
+    "nombre": "Bulldog Francés",
+    "pais_origen": "Francia",
+    "esperanza_vida": "10 - 12 años",
+    "peso_promedio": "8 - 14 kg",
+    "tamano": "Pequeño",
+    "nivel_energia": "Bajo",
+    "descripcion": "Compañero urbano de orejas de murciélago. Su hocico corto lo hace sensible al calor y al ejercicio intenso."
+  },
+  "bulldog_ingles": {
+    "nombre": "Bulldog Inglés",
+    "pais_origen": "Reino Unido (Inglaterra)",
+    "esperanza_vida": "8 - 10 años",
+    "peso_promedio": "18 - 25 kg",
+    "tamano": "Mediano",
+    "nivel_energia": "Bajo",
+    "descripcion": "De origen ganadero y hoy exclusivamente de compañía. Tranquilo, terco y de andar pesado."
+  },
+  "caniche": {
+    "nombre": "Caniche (Poodle)",
+    "pais_origen": "Alemania / Francia",
+    "esperanza_vida": "12 - 15 años",
+    "peso_promedio": "3 - 30 kg según variedad",
+    "tamano": "Variable (toy, mediano, estándar)",
+    "nivel_energia": "Alto",
+    "descripcion": "Cobrador de agua de pelo rizado. Considerado una de las razas más inteligentes y de muda mínima."
+  },
+  "beagle": {
+    "nombre": "Beagle",
+    "pais_origen": "Reino Unido (Inglaterra)",
+    "esperanza_vida": "12 - 15 años",
+    "peso_promedio": "9 - 11 kg",
+    "tamano": "Pequeño",
+    "nivel_energia": "Alto",
+    "descripcion": "Sabueso de rastro con un olfato excepcional. Curioso, ruidoso y difícil de distraer cuando sigue un olor."
+  },
+  "rottweiler": {
+    "nombre": "Rottweiler",
+    "pais_origen": "Alemania",
+    "esperanza_vida": "8 - 10 años",
+    "peso_promedio": "35 - 60 kg",
+    "tamano": "Grande",
+    "nivel_energia": "Medio",
+    "descripcion": "Antiguo perro boyero y de tiro. Fuerte, territorial y sereno; requiere socialización temprana."
+  },
+  "dachshund": {
+    "nombre": "Dachshund (Salchicha)",
+    "pais_origen": "Alemania",
+    "esperanza_vida": "12 - 16 años",
+    "peso_promedio": "4 - 15 kg",
+    "tamano": "Pequeño",
+    "nivel_energia": "Medio",
+    "descripcion": "Criado para cazar tejones dentro de madrigueras. Su espalda larga lo hace propenso a problemas de columna."
+  },
+  "yorkshire_terrier": {
+    "nombre": "Yorkshire Terrier",
+    "pais_origen": "Reino Unido (Inglaterra)",
+    "esperanza_vida": "13 - 16 años",
+    "peso_promedio": "2 - 3 kg",
+    "tamano": "Muy pequeño",
+    "nivel_energia": "Medio",
+    "descripcion": "Terrier cazador de ratas en fábricas textiles. Diminuto, valiente y de pelo largo similar al cabello humano."
+  },
+  "boxer": {
+    "nombre": "Bóxer",
+    "pais_origen": "Alemania",
+    "esperanza_vida": "10 - 12 años",
+    "peso_promedio": "25 - 32 kg",
+    "tamano": "Grande",
+    "nivel_energia": "Alto",
+    "descripcion": "Perro de agarre reconvertido en guardián y compañero. Juguetón y con una madurez emocional tardía."
+  },
+  "husky_siberiano": {
+    "nombre": "Husky Siberiano",
+    "pais_origen": "Rusia (Siberia)",
+    "esperanza_vida": "12 - 14 años",
+    "peso_promedio": "16 - 27 kg",
+    "tamano": "Mediano",
+    "nivel_energia": "Muy alto",
+    "descripcion": "Perro de trineo de resistencia criado por el pueblo chukchi. Independiente, vocal y experto en escapar."
+  },
+  "doberman": {
+    "nombre": "Dóberman",
+    "pais_origen": "Alemania",
+    "esperanza_vida": "10 - 12 años",
+    "peso_promedio": "27 - 45 kg",
+    "tamano": "Grande",
+    "nivel_energia": "Alto",
+    "descripcion": "Creado por un recaudador de impuestos como perro de protección. Atlético, alerta y muy apegado a su familia."
+  },
+  "gran_danes": {
+    "nombre": "Gran Danés",
+    "pais_origen": "Alemania",
+    "esperanza_vida": "7 - 10 años",
+    "peso_promedio": "45 - 90 kg",
+    "tamano": "Gigante",
+    "nivel_energia": "Medio",
+    "descripcion": "Cazador de jabalíes de estatura enorme. Tranquilo dentro de casa, con una vida más corta por su tamaño."
+  },
+  "pug": {
+    "nombre": "Pug (Carlino)",
+    "pais_origen": "China",
+    "esperanza_vida": "12 - 15 años",
+    "peso_promedio": "6 - 8 kg",
+    "tamano": "Pequeño",
+    "nivel_energia": "Bajo",
+    "descripcion": "Perro de compañía de la nobleza china. Cara arrugada, hocico chato y respiración ruidosa."
+  },
+  "chihuahua": {
+    "nombre": "Chihuahua",
+    "pais_origen": "México",
+    "esperanza_vida": "12 - 18 años",
+    "peso_promedio": "1.5 - 3 kg",
+    "tamano": "Muy pequeño",
+    "nivel_energia": "Medio",
+    "descripcion": "La raza más pequeña del mundo. Desconfiado con extraños y extremadamente leal a una sola persona."
+  },
+  "border_collie": {
+    "nombre": "Border Collie",
+    "pais_origen": "Reino Unido (frontera Escocia-Inglaterra)",
+    "esperanza_vida": "12 - 15 años",
+    "peso_promedio": "14 - 20 kg",
+    "tamano": "Mediano",
+    "nivel_energia": "Muy alto",
+    "descripcion": "Pastor de ovejas que controla el rebaño con la mirada. Suele citarse como la raza más inteligente."
+  },
+  "schnauzer_miniatura": {
+    "nombre": "Schnauzer Miniatura",
+    "pais_origen": "Alemania",
+    "esperanza_vida": "12 - 15 años",
+    "peso_promedio": "5 - 9 kg",
+    "tamano": "Pequeño",
+    "nivel_energia": "Medio",
+    "descripcion": "Ratonero de granja con barba y cejas características. Alerta, ladrador y de pelo duro."
+  },
+  "shih_tzu": {
+    "nombre": "Shih Tzu",
+    "pais_origen": "China / Tíbet",
+    "esperanza_vida": "10 - 16 años",
+    "peso_promedio": "4 - 7 kg",
+    "tamano": "Pequeño",
+    "nivel_energia": "Bajo",
+    "descripcion": "Perro de palacio criado para acompañar a la corte imperial. Manto largo que exige cepillado diario."
+  },
+  "pastor_australiano": {
+    "nombre": "Pastor Australiano",
+    "pais_origen": "Estados Unidos",
+    "esperanza_vida": "12 - 15 años",
+    "peso_promedio": "16 - 32 kg",
+    "tamano": "Mediano",
+    "nivel_energia": "Muy alto",
+    "descripcion": "Pese a su nombre, se desarrolló en ranchos del oeste estadounidense. Manto mirlo y ojos a menudo dispares."
+  },
+  "cocker_spaniel": {
+    "nombre": "Cocker Spaniel",
+    "pais_origen": "Reino Unido (Inglaterra)",
+    "esperanza_vida": "12 - 15 años",
+    "peso_promedio": "12 - 15 kg",
+    "tamano": "Mediano",
+    "nivel_energia": "Medio",
+    "descripcion": "Spaniel de caza menor de orejas largas y caídas. Alegre y sensible al trato brusco."
+  },
+  "san_bernardo": {
+    "nombre": "San Bernardo",
+    "pais_origen": "Suiza",
+    "esperanza_vida": "8 - 10 años",
+    "peso_promedio": "60 - 90 kg",
+    "tamano": "Gigante",
+    "nivel_energia": "Bajo",
+    "descripcion": "Perro de rescate en los Alpes suizos. Gigante bonachón, babea abundantemente y tolera mal el calor."
+  },
+  "akita": {
+    "nombre": "Akita",
+    "pais_origen": "Japón",
+    "esperanza_vida": "10 - 13 años",
+    "peso_promedio": "32 - 50 kg",
+    "tamano": "Grande",
+    "nivel_energia": "Medio",
+    "descripcion": "Perro de caza mayor y símbolo nacional japonés. Digno, silencioso y reservado con desconocidos."
+  },
+  "chow_chow": {
+    "nombre": "Chow Chow",
+    "pais_origen": "China",
+    "esperanza_vida": "8 - 12 años",
+    "peso_promedio": "20 - 32 kg",
+    "tamano": "Mediano",
+    "nivel_energia": "Bajo",
+    "descripcion": "Una de las razas más antiguas. Melena de león, lengua azulada y carácter independiente, casi felino."
+  },
+  "pomerania": {
+    "nombre": "Pomerania",
+    "pais_origen": "Alemania / Polonia",
+    "esperanza_vida": "12 - 16 años",
+    "peso_promedio": "2 - 3 kg",
+    "tamano": "Muy pequeño",
+    "nivel_energia": "Medio",
+    "descripcion": "Spitz enano descendiente de perros de trineo nórdicos. Manto denso, ladrido agudo y mucha seguridad en sí mismo."
+  }
+}
