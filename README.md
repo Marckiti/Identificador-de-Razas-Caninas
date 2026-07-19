@@ -15,3 +15,10 @@ Proyecto de la materia **Fundamentos de Inteligencia Artificial**.
 | `GET` | `/metricas` | Métricas del modelo (accuracy, precision/recall/F1 por raza, historial) |
 | `GET` | `/matriz-confusion` | Imagen PNG de la matriz de confusión |
 | `GET` | `/docs` | Documentación interactiva |
+
+**DESPLIEGUE**
+
+| Frontend | React 18 · Vite 5 · Tailwind 3.4 — desplegado en **Netlify** |
+| Backend | Python · FastAPI · Uvicorn — desplegado en **Render** |
+| IA | MobileNetV2 · Transfer Learning · **TensorFlow Lite** en producción |
+
