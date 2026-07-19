@@ -1,0 +1,182 @@
+{
+  "accuracy": 0.9177,
+  "n_validacion": 851,
+  "macro_f1": 0.913,
+  "por_clase": [
+    {
+      "raza": "akita",
+      "precision": 0.905,
+      "recall": 0.731,
+      "f1": 0.809,
+      "soporte": 26
+    },
+    {
+      "raza": "beagle",
+      "precision": 0.949,
+      "recall": 1.0,
+      "f1": 0.974,
+      "soporte": 37
+    },
+    {
+      "raza": "border_collie",
+      "precision": 0.889,
+      "recall": 0.97,
+      "f1": 0.928,
+      "soporte": 33
+    },
+    {
+      "raza": "boxer",
+      "precision": 0.903,
+      "recall": 0.933,
+      "f1": 0.918,
+      "soporte": 30
+    },
+    {
+      "raza": "bulldog_frances",
+      "precision": 0.812,
+      "recall": 0.929,
+      "f1": 0.867,
+      "soporte": 28
+    },
+    {
+      "raza": "bulldog_ingles",
+      "precision": 0.85,
+      "recall": 0.895,
+      "f1": 0.872,
+      "soporte": 38
+    },
+    {
+      "raza": "caniche",
+      "precision": 1.0,
+      "recall": 0.973,
+      "f1": 0.986,
+      "soporte": 37
+    },
+    {
+      "raza": "chihuahua",
+      "precision": 0.923,
+      "recall": 0.75,
+      "f1": 0.828,
+      "soporte": 32
+    },
+    {
+      "raza": "chow_chow",
+      "precision": 0.976,
+      "recall": 0.932,
+      "f1": 0.953,
+      "soporte": 44
+    },
+    {
+      "raza": "cocker_spaniel",
+      "precision": 0.926,
+      "recall": 0.962,
+      "f1": 0.943,
+      "soporte": 26
+    },
+    {
+      "raza": "dachshund",
+      "precision": 0.733,
+      "recall": 0.759,
+      "f1": 0.746,
+      "soporte": 29
+    },
+    {
+      "raza": "doberman",
+      "precision": 0.929,
+      "recall": 0.765,
+      "f1": 0.839,
+      "soporte": 34
+    },
+    {
+      "raza": "golden_retriever",
+      "precision": 0.867,
+      "recall": 0.929,
+      "f1": 0.897,
+      "soporte": 28
+    },
+    {
+      "raza": "gran_danes",
+      "precision": 0.964,
+      "recall": 0.931,
+      "f1": 0.947,
+      "soporte": 29
+    },
+    {
+      "raza": "husky_siberiano",
+      "precision": 0.974,
+      "recall": 0.949,
+      "f1": 0.961,
+      "soporte": 39
+    },
+    {
+      "raza": "labrador_retriever",
+      "precision": 0.905,
+      "recall": 0.864,
+      "f1": 0.884,
+      "soporte": 44
+    },
+    {
+      "raza": "pastor_aleman",
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "soporte": 29
+    },
+    {
+      "raza": "pastor_australiano",
+      "precision": 0.909,
+      "recall": 0.769,
+      "f1": 0.833,
+      "soporte": 26
+    },
+    {
+      "raza": "pomerania",
+      "precision": 0.911,
+      "recall": 0.976,
+      "f1": 0.943,
+      "soporte": 42
+    },
+    {
+      "raza": "pug",
+      "precision": 0.95,
+      "recall": 0.95,
+      "f1": 0.95,
+      "soporte": 40
+    },
+    {
+      "raza": "rottweiler",
+      "precision": 0.825,
+      "recall": 0.943,
+      "f1": 0.88,
+      "soporte": 35
+    },
+    {
+      "raza": "san_bernardo",
+      "precision": 0.969,
+      "recall": 0.969,
+      "f1": 0.969,
+      "soporte": 32
+    },
+    {
+      "raza": "schnauzer_miniatura",
+      "precision": 0.941,
+      "recall": 0.97,
+      "f1": 0.955,
+      "soporte": 33
+    },
+    {
+      "raza": "shih_tzu",
+      "precision": 0.952,
+      "recall": 0.976,
+      "f1": 0.964,
+      "soporte": 41
+    },
+    {
+      "raza": "yorkshire_terrier",
+      "precision": 0.951,
+      "recall": 1.0,
+      "f1": 0.975,
+      "soporte": 39
+    }
+  ]
+} 

@@ -1,0 +1,134 @@
+{
+  "config": {
+    "epocas_cabeza": 10,
+    "epocas_ajuste": 12,
+    "tamano_lote": 32,
+    "lr_cabeza": 0.001,
+    "lr_ajuste": 1e-05,
+    "capas_descongeladas": 60,
+    "num_razas": 25
+  },
+  "mejor_val_accuracy": 0.9224,
+  "epocas": [
+    {
+      "etapa": 1,
+      "epoca": 1,
+      "accuracy": 0.6129,
+      "loss": 1.4496,
+      "val_accuracy": 0.879,
+      "val_loss": 0.4761
+    },
+    {
+      "etapa": 1,
+      "epoca": 2,
+      "accuracy": 0.83,
+      "loss": 0.5877,
+      "val_accuracy": 0.9095,
+      "val_loss": 0.3476
+    },
+    {
+      "etapa": 1,
+      "epoca": 3,
+      "accuracy": 0.8564,
+      "loss": 0.4731,
+      "val_accuracy": 0.9119,
+      "val_loss": 0.301
+    },
+    {
+      "etapa": 1,
+      "epoca": 4,
+      "accuracy": 0.8802,
+      "loss": 0.4015,
+      "val_accuracy": 0.9107,
+      "val_loss": 0.2881
+    },
+    {
+      "etapa": 1,
+      "epoca": 5,
+      "accuracy": 0.8858,
+      "loss": 0.3692,
+      "val_accuracy": 0.913,
+      "val_loss": 0.2732
+    },
+    {
+      "etapa": 1,
+      "epoca": 6,
+      "accuracy": 0.8907,
+      "loss": 0.3221,
+      "val_accuracy": 0.9224,
+      "val_loss": 0.2574
+    },
+    {
+      "etapa": 1,
+      "epoca": 7,
+      "accuracy": 0.904,
+      "loss": 0.3084,
+      "val_accuracy": 0.9177,
+      "val_loss": 0.259
+    },
+    {
+      "etapa": 1,
+      "epoca": 8,
+      "accuracy": 0.909,
+      "loss": 0.2859,
+      "val_accuracy": 0.9189,
+      "val_loss": 0.2505
+    },
+    {
+      "etapa": 1,
+      "epoca": 9,
+      "accuracy": 0.921,
+      "loss": 0.2587,
+      "val_accuracy": 0.9189,
+      "val_loss": 0.2437
+    },
+    {
+      "etapa": 1,
+      "epoca": 10,
+      "accuracy": 0.9178,
+      "loss": 0.2501,
+      "val_accuracy": 0.9201,
+      "val_loss": 0.2565
+    },
+    {
+      "etapa": 2,
+      "epoca": 1,
+      "accuracy": 0.8023,
+      "loss": 0.6125,
+      "val_accuracy": 0.9177,
+      "val_loss": 0.2673
+    },
+    {
+      "etapa": 2,
+      "epoca": 2,
+      "accuracy": 0.849,
+      "loss": 0.4863,
+      "val_accuracy": 0.9154,
+      "val_loss": 0.2806
+    },
+    {
+      "etapa": 2,
+      "epoca": 3,
+      "accuracy": 0.8678,
+      "loss": 0.4327,
+      "val_accuracy": 0.9107,
+      "val_loss": 0.2912
+    },
+    {
+      "etapa": 2,
+      "epoca": 4,
+      "accuracy": 0.8772,
+      "loss": 0.3784,
+      "val_accuracy": 0.913,
+      "val_loss": 0.2922
+    },
+    {
+      "etapa": 2,
+      "epoca": 5,
+      "accuracy": 0.8825,
+      "loss": 0.3718,
+      "val_accuracy": 0.9177,
+      "val_loss": 0.294
+    }
+  ]
+}
