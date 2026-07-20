@@ -1,0 +1,27 @@
+/* Las tres directivas que Tailwind reemplaza al compilar:
+     base       -> normalización de estilos del navegador
+     components -> clases de componentes (aquí no se usan)
+     utilities  -> las miles de clases tipo bg-pino, p-4, flex...  */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Los colores y fuentes NO se definen aquí: viven en tailwind.config.js */
+
+@layer base {
+  body {
+    @apply bg-papel text-tinta font-sans antialiased;
+  }
+}
+
+/* Accesibilidad: si el sistema operativo pide menos movimiento, se respeta.
+   Es un requisito básico de calidad y un buen detalle para la exposición. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
